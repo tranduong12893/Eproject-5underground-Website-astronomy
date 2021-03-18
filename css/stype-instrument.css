@@ -1,0 +1,365 @@
+.content{
+    min-height: 1000px;
+    background-color: white;
+    width: 1220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h1{
+    width: 1200px;
+    margin-top: 20px;
+    min-height: 745px;;
+    background-color: #f6fbfd;
+    margin-left: auto;
+    margin-right: auto;
+}
+#first-word{
+    font-size: 20px;
+    font-weight: bold;
+}
+#img1{
+    margin: 50px 30px 0 20px;
+    width:400px;
+    min-height: 400px;
+    float: left;
+}
+#blog0{
+    margin: 5px 5px 5px 5px;
+    font-size: 15px;
+    color: black;
+    min-height: 195px;
+    width: 465px;
+
+}
+#blog0 p a{
+    color: black;
+}
+#img2{
+    line-height: 80px;
+    float: right;
+    min-height: 400px;
+    width: 500px;
+    margin-top: 39px;
+    margin-right: 38px;
+}
+#img2 .select a{
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+}
+.blog{
+    font-size: 17px;
+    margin-top: -19px;
+    margin-left: 250px;
+    color: black;
+    line-height: 25px;
+}
+.select {
+    border: 0px black solid;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    border-bottom: 2px wheat solid;
+    width: 630px;
+    height: 172px;
+    margin-left: -120px;
+}
+.img-select{
+    float: left;
+    margin-top: 11px;
+}
+.user{
+    margin-top: -4px;
+    margin-left: 4px;
+    font-size: 14px;
+}
+.tools{
+    background-color: #f6fbfd;
+    min-height: 200px;
+    margin-top: 12px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1200px;
+}
+.group-tools{
+    min-height: 313px;
+    width: 1100px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.tool1{
+    float: right;
+    width: 260px;
+    height: 266px;
+    background-color: #efefef;
+    margin-top: 20px;
+}
+.tools div img{
+    width: 255px;
+    min-height: 225px;
+    margin-top: 13px;
+}
+.tools div  p{
+    text-align: center;
+    font-size: 17px;
+    color: black;
+    font-weight: bold;
+}
+.tools read-more{
+    margin-left: 200px;
+}
+.headline {
+    text-align: center;
+    background-color: #bdb7b7;
+    color: black;
+    height: 40px;
+    width: 140px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#software{
+    width: 1200px;
+    min-height: 280px;
+    background-color: #f6fbfd;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.group-software{
+    min-height: 300px;
+    width: 1200px;
+}
+.software{
+    width: 362px;
+    float: right;
+    margin-right: 38px;
+    margin-top: 20px;
+    height: 263px;
+    background-color: #efefef;
+}
+#software .software img{
+    width: 331px;
+    min-height: 220px;
+    margin-top: 15px;
+}
+
+#software .read-more{
+    margin-bottom: 10px;
+}
+#software div p{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+}
+
+/* css cua trang tool*/
+.title-make{
+    font-size: 40px;
+    margin-left: 350px;
+    word-spacing: 10px;
+}
+#content-tool{
+    width: 1200px;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.toolss{
+    height: 420px;
+    width: 1200px;
+    margin-top: 30px;
+    background-color: #c9def6;
+}
+.toolss1{
+    height: 272px   ;
+    width: 1200px;
+    background-color:#c9def6;
+    margin-top: 13px;
+}
+ .blog-tool{
+    color: black;
+}
+.tool-img{
+    float: left;
+    margin-left: 16px;
+    margin-top: 12px;
+}
+.nametool{
+    font-size: 30px;
+    margin-left:300px;
+    color: black;
+}
+#nametool1{
+    margin-left: 440px;
+    font-size: 30px;
+    color: black;
+}
+#make-blog{
+    font-size: 25px ;
+    margin-left: 440px;
+    color: black;
+}
+.blog-tool{
+    margin-left: 300px ;
+    font-size: 19px;
+}
+.tool-title{
+    width: 1200px;
+}
+#content-tool button{
+    width: 1200px;
+    margin-top: 10px;
+    height: 40px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px ;
+    background-color: #3086e7;
+}
+k{
+    display: none;
+}
+.slide{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 200px;
+    margin-top: 10px;
+}
+.carousel-control-next-icon{
+    background-color: #3b3b3b8a;
+    height: 263px;
+    margin-bottom: 53px;
+    width: 30px;
+    margin-left: 20px;
+}
+.carousel-control-prev-icon{
+    background-color: #3b3b3b8a;
+    height: 263px;
+    margin-bottom: 53px;
+    width: 30px;
+    margin-right: 20px;
+
+}
+.carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-color: #f6fbfd;
+    height: 356px;
+}
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4%;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    background: 0 0;
+    border: 0;
+    opacity: .5;
+    transition: opacity .15s ease;}
+/*css cua cac tool*/
+.product {
+    background-color: #f6fbfd;
+    margin-top: 40px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-tool{
+    float: left;
+    width: 600px;
+    min-height: 600px;
+    margin-top: 30px;
+}
+.text-tool{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 40px;
+    border-bottom: 2px black solid;
+    width: 900px;
+    margin-left: 150px;
+    text-align: center;
+}
+.video-tool{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+.review{
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    margin-left: 522px;
+}
+.img-tool img{
+    margin-left: 20px;
+}
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border-radius: .25rem;
+    width: 600px;
+    margin-left: 280px;
+}
+.list-group-item:first-child {
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+    text-align: center;
+}
+.list-group-item+.list-group-item {
+    border-top-width: 0;
+    text-align: center;
+}
+.assemble-video{
+    text-align: center;
+    margin-top: 20px;
+    background-color:#f6fbfd;
+}
+.setup{
+    width: 200px;
+    height:35px;
+    background-color: #bdb7b7;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+/* css cua soft */
+.img-soft{
+    width: 1200px;
+    min-height: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.download {
+    margin-left: 500px;
+    width: 200px;
+    height: 50px;
+}
+.download a{
+    color: black;
+    font-weight: bold;
+}
+/* make */
+.product span{
+    float: left;
+    padding: 4px 8px 0 0;
+    display: block;
+    color: #336699;
+    font: 60px/50px Georgia, Times, serif;
+}
+.product n{
+    font-weight: bold;
+}
+.make{
+    font-size: 25px;
+}

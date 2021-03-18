@@ -1,0 +1,104 @@
+
+.image{
+    height: auto;
+}
+.width .image{
+    text-align: center;
+    padding-top: 50px;
+}
+.width iframe{
+    text-align: center;
+    margin: 10px;
+    padding-top: 50px;
+    margin-left: 20px;
+}
+.width .image img{
+    max-width: 250px;
+    max-height: 250px;
+    min-width: 250px;
+    min-height: 250px;
+    margin: 10px;
+}
+.image img{
+    width: 156px;
+    border-radius: 5px;
+}
+.image :hover img{
+    transform: scale(2.5);
+    transition: 1s;
+}
+#footer{
+    text-align: left;
+    margin-top: 50px;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 43px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: darkorange;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 4px;
+    opacity: 70%;
+}
+
+#myBtn:hover {
+    background-color: lightskyblue;
+}
+.video{
+    height: 100%;
+    width: 100%;
+    margin-top: 30px;
+}
+#content{
+    padding-top: 20px;
+}
+.discuss{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.width button{
+    height: 40px;
+    width: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+.see-more{
+    width: 45px;
+    height: 30px;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: orange;
+}
+.btn-primary{
+    background-color: white;
+    border-color: white;
+    box-shadow: none;
+}
+.modal-content{
+    width: 500px;
+    height: 500px;
+}
+
+.modal-title{
+    text-align: center;
+}
+.modal-body{
+    background-color: white;
+}
+.btn-primary{
+    background-color: cornflowerblue;
+}
+.sign{
+    text-align: right;
+    padding-right: 30px;
+}

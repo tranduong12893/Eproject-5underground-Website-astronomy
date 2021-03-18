@@ -1,0 +1,87 @@
+
+.discovery-video{
+    text-align: center;
+    margin-top: 30px;
+}
+#content .section-title{
+    margin-bottom: 30px;
+}
+#content .section-title h1{
+    text-align: center;
+    font-family: 'Shippori Mincho B1', serif;
+    color: black;
+    margin-top: 30px;
+}
+#content .width{
+    background-color: white;
+    width: 1000px;
+}
+.accordion{
+    margin-top: 5px;
+    padding-bottom: 10px;
+}
+.accordion-item{
+    background-color: #f6fbfd;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.accordion-button:focus{
+    box-shadow: none;
+}
+.discover-image{
+    text-align: center;
+}
+.discover-image p{
+    margin-left: -235px;
+}
+.more-article h4:before{
+    position: absolute;
+    width: 135px;
+    height: 3px;
+    background: black;
+    content: "";
+    margin-top: 30px;
+}
+.more-article{
+    background-color: white;
+    width: 1000px;
+}
+
+.list-group-item{
+    background-color: #f6fbfd;
+}
+.list-group :hover{
+   background-color: #e1e6e7;
+}
+/*astronomical observatory*/
+#content-discovery{
+    font: normal 25px / 40px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+    word-spacing: normal;
+    color: #5b5b5b;
+}
+.content-roll{
+    min-height: 500px;
+}
+.content-roll h2{
+    background-image: linear-gradient(102deg, transparent 1em, rgb(255, 229, 218) 1em), linear-gradient(282deg, transparent 1em, rgb(255, 229, 218) 1em);
+    background-size: 60% 100%;
+    -webkit-box-decoration-break: clone;
+    display: inline;
+    background-color: rgba(0, 0, 0, 0) !important;
+    color: rgb(59, 180, 144) !important;
+    background-position: 0px 0px, 100% 0px;
+    background-repeat: no-repeat;
+    padding: 0.1rem 1.15em !important;
+    background-position-y: 0.6em;
+}
+.firstcharacter{
+    float: left;
+    color: #43bc9b;
+    font-size: 80px;
+    line-height: 60px;
+    padding-top: 25px;
+    padding-right: 8px;
+    padding-left: 0px;
+    font-family: Open Sans;
+}
