@@ -1,6 +1,6 @@
 body{
     background-color: white;
-    min-width: 1200px;
+    width: 1200px;
     background-repeat: no-repeat;
     height: 100%;
     background-position: center;
@@ -186,11 +186,13 @@ a:hover {color: orange}
     padding: 20px 30px 20px 30px
 }
 .f2{
+    width: 530px;
     float: left;
     padding-top: 50px;
 }
 .f3{
-    float: right;
+    width: 420px;
+    float: left;
     padding-top: 20px;
 }
 
