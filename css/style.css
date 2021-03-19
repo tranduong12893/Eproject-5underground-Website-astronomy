@@ -1,10 +1,11 @@
 body{
     background-color: white;
-    width: 1200px;
+    min-width: 1200px;
     background-repeat: no-repeat;
     height: 100%;
     background-position: center;
     background-size: cover;
+    font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
 }
 
 #header{
@@ -301,22 +302,22 @@ a:hover {color: orange}
 #myBtn {
     display: none;
     position: fixed;
-    bottom: 10px;
-    right: 43px;
+    bottom: 30px;
+    right: 20px;
     z-index: 99;
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: darkorange;
+    background-color: #555;
     color: white;
     cursor: pointer;
-    padding: 15px;
+    padding: 10px;
     border-radius: 4px;
     opacity: 70%;
 }
 
 #myBtn:hover {
-    background-color: #555;
+    background-color: #e2a133;
 }
  /* search bar*/
 
