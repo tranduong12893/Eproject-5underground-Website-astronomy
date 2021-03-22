@@ -2,9 +2,10 @@
     height: 1000px;
 }
 .contact{
+    margin-left: 20px;
     margin-top: 30px;
     height: 400px;
-    width: 550px;
+    width: 570px;
     float: left;
 }
 .address{
@@ -15,8 +16,8 @@
     float: left;
 }
 .address p{
-    width: 500px;
     float: left;
+    width: 515px;
     font-size: 20px;
     margin-left: 10px;
 }
@@ -31,16 +32,16 @@
     float: left;
     font-size: 20px;
     margin-left: 10px;
-    width: 500px;
+    width: 515px;
 }
 .preface{
-    margin-top: 40px;
+    width: 530px;
+    float: left;
+    margin-top: 15px;
     font-size: 20px;
-
-    
 }
 .contact-Message{
-    width: 550px;
+    width: 590px;
     float: left;
     margin-top: 30px;
 }
