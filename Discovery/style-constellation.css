@@ -1,0 +1,109 @@
+.constellation-image{
+    text-align: center;
+
+}
+#content .width .headline{
+    width: 170px;
+}
+#content .width{
+    background-color:  #f6fbfd;
+}
+
+.col-sm-6 p{
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.col-6 img{
+    text-align: center;
+    margin-left: 25px;
+}
+.headline-1{
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 400px;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+}
+.col-sm-6 h6 {
+    margin-left: 10px;
+}
+.col-sm-6 p{
+    margin-left: 18px;
+}
+.babylonian-image{
+    margin-top: 290px;
+}
+.senenmut-image{
+    margin-top: 140px;
+}
+.su-song-image{
+    margin-top: 100px;
+}
+.headline-2{
+text-align: center;
+color: black;
+height: 40px;
+width: 295px;
+font-size: 25px;
+font-weight: bold;
+border-bottom: 2px solid black;
+margin-top: 5px;
+}
+.southern-constellations-image{
+    margin-top: 520px;
+    margin-bottom:100px;
+}
+.headline-3{
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 305px;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+}
+.dark-cloud{
+    margin-left: 18px;
+}
+.inca-constellation{
+     margin-left: 185px;
+}
+/*new slide*/
+.recommend{
+    height: 250px;
+    width: 1200px;
+}
+.recommend .headline{
+    width: 258px;
+    border-bottom: 2px solid black;
+}
+.group-recommend{
+    margin-left: 20px;
+}
+.new-slide{
+    margin-top: 10px;
+    height: 180px;
+    width: 177px;
+    float: left;
+    margin-right: 19px;
+}
+.new-slide p{
+    color: black;
+}
+.new-slide:hover{
+    background-color: #e1e6e7;
+}
+.headline-4{
+    text-align: center;
+    color: black;
+    height: 40px;
+    width: 230px;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    margin-top: 5px;
+}
