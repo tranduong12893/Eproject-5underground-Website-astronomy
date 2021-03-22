@@ -7,7 +7,9 @@ body{
     background-size: cover;
     font-family: "Open Sans", Helvetica, Arial, Verdana, sans-serif;
 }
-
+p{
+    color: #5b5b5b;
+}
 #header{
     background-color: black;
     height: 115px;
