@@ -190,7 +190,7 @@ a:hover {color: orange}
     padding: 20px 30px 20px 30px
 }
 .f2{
-    width: 530px;
+    width: 560px;
     float: left;
     padding-top: 50px;
 }
@@ -205,6 +205,7 @@ a:hover {color: orange}
     color: white;
 }
 .footer_infor{
+    margin-bottom: 10px;
     font-size: 13px;
     color: grey;
 }

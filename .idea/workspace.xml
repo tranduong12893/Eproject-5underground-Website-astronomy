@@ -3,18 +3,78 @@
   <component name="ChangeListManager">
     <list default="true" id="e73f238a-251f-4b75-8695-d12bfc3fb607" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/Black-hole.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/Black-hole.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/Comet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/Comet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/Constellations.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/Constellations.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/Discovery.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/Discovery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/astronomical observatory.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/astronomical observatory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/cosmic-concepts.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/cosmic-concepts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/solar-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/Discovery/solar-system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/style-constellation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-constellation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/style-cosmic.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-cosmic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/style-discovery.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-discovery.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Discovery/style-solar-system.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-solar-system.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/About-Us.html" beforeDir="false" afterPath="$PROJECT_DIR$/About-Us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/Instrument.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/Instrument.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/make.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/make.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/soft9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/soft9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Instrument/tool8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Instrument/tool8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/154568015_476232223372168_3644689668780478982_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/512px-Gmail_icon_(2020).svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/DAT1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Duong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Duong1 (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/THANH 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Thiepmung.com_16044f3c7060ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/URANUS/ImageProperties.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/URANUS/TileGroup0/0-0-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Untitled-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Untitled-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/Untitled-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/dat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/facebook-667456_1920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/gmail-4561841_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/in-icon-png-clip-art.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/instagram-1675670_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/jupiter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/mars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/mercury.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/nepturne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/sun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/twitter-667462_1920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/uranus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MEDIA/venus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Astronomers are studying the atmospheres of faraway planets.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Astronomers are studying the atmospheres of faraway planets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Astronomy reviews Celestron's NexStar Evolution 8HD telescope, equipped with StarSense.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Astronomy reviews Celestron's NexStar Evolution 8HD telescope, equipped with StarSense.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Cygnus X-1 The black hole that started it all.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Cygnus X-1 The black hole that started it all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Exoplanets’ magnetic poles likely wander and flip like Earth’s do.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Exoplanets’ magnetic poles likely wander and flip like Earth’s do.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/How 'Mars Undergound' sparked a return to the Red Planet.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/How 'Mars Undergound' sparked a return to the Red Planet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/NASA keeps hiding ‘Easter eggs’ on Mars-bound spacecraft.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/NASA keeps hiding ‘Easter eggs’ on Mars-bound spacecraft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/News.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/News.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Oumumamua and the search for life in the universe.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Oumumamua and the search for life in the universe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Raindrops on other worlds are surprisingly like our own.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Raindrops on other worlds are surprisingly like our own.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/The Sky This Month-March 2021.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/The Sky This Month-March 2021.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/The Sky This Week Catch the Halloween Full Moon.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/The Sky This Week Catch the Halloween Full Moon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/The Sky This Week Enter the Snow Moon.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/The Sky This Week Enter the Snow Moon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/The search for dark matter gets a boost from quantum technology.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/The search for dark matter gets a boost from quantum technology.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Total solar eclipse 2020 A shadow crosses South America.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Total solar eclipse 2020 A shadow crosses South America.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Triple star recipe for supersized stellar-mass black holes.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Triple star recipe for supersized stellar-mass black holes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Volcanoes could have breathed new life into a super-Earth’s atmosphere.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Volcanoes could have breathed new life into a super-Earth’s atmosphere.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/Watch Preparing humans for life on Mars.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/Watch Preparing humans for life on Mars.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/News/What shape is the universe.html" beforeDir="false" afterPath="$PROJECT_DIR$/News/What shape is the universe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style-about-us.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stype-Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stype-Contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/stype-instrument.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/stype-instrument.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +133,9 @@
       <workItem from="1616134509662" duration="4637000" />
       <workItem from="1616139294883" duration="778000" />
       <workItem from="1616160292794" duration="320000" />
+      <workItem from="1616402531465" duration="166000" />
+      <workItem from="1616483156430" duration="13000" />
+      <workItem from="1616483173538" duration="7644000" />
     </task>
     <servers />
   </component>

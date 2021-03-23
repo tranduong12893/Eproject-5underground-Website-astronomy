@@ -49,28 +49,40 @@
 }
 .blog{
     font-size: 17px;
-    margin-top: -19px;
-    margin-left: 250px;
+    margin-top: -33px;
     color: black;
     line-height: 25px;
 }
 .select {
     border: 0px black solid;
     font-size: 20px;
-    text-align: center;
     color: black;
     border-bottom: 2px wheat solid;
     width: 630px;
     height: 172px;
     margin-left: -120px;
 }
-.img-select{
+.select-img{
+    margin-left: 10px;
+    width: 250px;
     float: left;
-    margin-top: 11px;
+}
+.select-text{
+    width: 360px;
+    float: left;
+     margin-left: 10px;
+ }
+.content-select{
+    float: left;
+    width: 380px;
+}
+.select-name{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    margin-left: 15px;
 }
 .user{
-    margin-top: -4px;
-    margin-left: 4px;
+    margin-top: -23px;
     font-size: 14px;
 }
 .tools{
@@ -95,7 +107,7 @@
     margin-top: 20px;
 }
 .tools div img{
-    width: 255px;
+    width: 222px;
     min-height: 225px;
     margin-top: 13px;
 }
@@ -289,7 +301,6 @@ k{
 }
 .video-tool{
     margin-top: 40px;
-    margin-left: 150px;
 }
 .review{
     font-size: 20px;
@@ -355,7 +366,8 @@ k{
     padding: 4px 8px 0 0;
     display: block;
     color: #336699;
-    font: 60px/50px Georgia, Times, serif;
+    font: 60px/65px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+    font-size: 70px;
 }
 .product n{
     font-weight: bold;
