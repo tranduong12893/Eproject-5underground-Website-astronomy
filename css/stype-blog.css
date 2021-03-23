@@ -12,6 +12,16 @@
     padding-top: 50px;
     margin-left: 20px;
 }
+.image a{
+    float: left;
+    width: 270px;
+    height: 300px;
+    color: #000000;
+    text-align: left;
+}
+.image a p{
+    margin-left: 10px;
+}
 .width .image img{
     max-width: 250px;
     max-height: 250px;
