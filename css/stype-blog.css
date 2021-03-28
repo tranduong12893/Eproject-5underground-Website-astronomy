@@ -74,27 +74,7 @@
     text-align: center;
     border-radius: 5px;
 }
-.see-more{
-    margin-right: 50px;
-    float: right;
-    text-align: center;
-    padding: 5px 10px;
-    border-radius: 2px;
-    display: inline-block;
-    color: #fff;
-    background-color: #4daad2;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 600;
-    text-transform: uppercase;
-    font-size: 14px;
-    cursor: pointer;
-}
-.see-more p{
-    margin: 5px;
-}
-.see-more:hover{
-    background-color: #5b5b5b;
-}
+
 .btn-primary{
     background-color: white;
     border-color: white;
@@ -145,7 +125,7 @@
 .image1 img{
     width: 156px;
     border-radius: 5px;
-}.
+}
 .image1 :hover img{
     transform: scale(2.0);
     transition: 0.5s;

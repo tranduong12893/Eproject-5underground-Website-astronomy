@@ -208,6 +208,7 @@ a:hover {color: orange}
     width: 100%;
 }
 .read-more:hover{
+    border-radius: 5px;
 }
 .read-more a{
     width: 100px;
